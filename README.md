@@ -80,31 +80,10 @@ else:
     print("The loan is approved")
 Output Example:
 
-csharp
-Copy
-Edit
+
 The loan is approved
-📥 Installation
-bash
-Copy
-Edit
-git clone https://github.com/yourusername/loan-status-prediction.git
-cd loan-status-prediction
-pip install -r requirements.txt
-Run the script:
 
-bash
-Copy
-Edit
-python loan_status_prediction.py
-🔮 Future Improvements
-Try advanced models like Random Forest, XGBoost, or Neural Networks
 
-Implement feature scaling & hyperparameter tuning
-
-Create a web app using Streamlit or Flask
-
-Add model persistence with joblib or pickle
 
 📄 License
 This project is licensed under the MIT License – see the LICENSE file for details.
